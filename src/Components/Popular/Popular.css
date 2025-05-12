@@ -10,6 +10,7 @@
     color: #171717;
     font-size: 50px;
     font-weight: 600;
+    margin-left: 600px;
 }
 
 .popular hr{
@@ -17,11 +18,12 @@
     height: 6px;
     border-radius: 10px;
     background: #252525;
+    margin-left: 600px;
 }
 
 .popular_item{
     margin-top: 50px;
-    margin-left: 300px;
+    margin-left: 500px;
     display: flex;
     gap: 30px;
 }
