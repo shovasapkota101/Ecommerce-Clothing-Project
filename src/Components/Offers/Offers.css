@@ -1,9 +1,9 @@
 .offers{
-    width: 95%;
+    width: 90%;
     height: 60vh;
     display: flex;
     padding: 20px 140px;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-bottom: 150px;
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
     text-align: left;
@@ -20,7 +20,7 @@
 .offers-left h1{
     color: #171717;
     font-size: 80px;
-    font-size: 600;
+    font-weight: 600;
 }
 
 .offers-left p{
