@@ -4,7 +4,7 @@ import logo from '../assets/logo.jpeg';
 import instagram_icon from '../assets/instagram_icon.jpeg'
 import pinterest_icon from '../assets/pinterest_icon.jpeg'
 import facebook_icon from '../assets/facebook_icon.jpeg'
-import tiktok_icon from '../assets/tiktok_icon.jpeg'
+import whatsapp_icon from '../assets/whatsapp_icon.jpeg'
 
 const Footer = () => {
   return (
@@ -31,7 +31,7 @@ const Footer = () => {
                 <img src={facebook_icon} alt="" />
             </div>
             <div className="footer-icons-container">
-                <img src={tiktok_icon} alt="" />
+                <img src={whatsapp_icon} alt="" />
             </div>
         </div>
         <div className="footer-copyright">
